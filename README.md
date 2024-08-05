@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on a simulator
 - 🌱 I’m currently learning about simulated parallelism
 - 👯 I’m looking to collaborate on better open source chip design tools
 - 💬 Ask me about how std::variant makes the world a better place
